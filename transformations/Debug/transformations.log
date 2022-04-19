@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\enzom\source\repos\transformations\transformations\main.cpp(59,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\enzom\source\repos\transformations\transformations\main.cpp(85,33): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\enzom\source\repos\transformations\transformations\main.cpp(106,41): warning C4305: '+=': truncamiento de 'double' a 'float'
+  transformations.vcxproj -> C:\Users\enzom\source\repos\transformations\Debug\transformations.exe
